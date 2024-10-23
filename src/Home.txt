@@ -1,3 +1,12 @@
 Создал проект Home
 git init
 В файле .gitignore прописал папки bin, admin, config, а так же файлы с расширением .sass
+git add .
+git commit -m "Adding"
+git branch lock
+git checkout lock
+Создал папку blog с файлами: index.js, index.html
+Создал удаленный репозиторий
+git checkout master
+git remote add origin https://github.com/MikeCher360/Home.git
+git push -u origin main
