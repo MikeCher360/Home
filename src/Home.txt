@@ -1,0 +1,3 @@
+Создал проект Home
+git init
+В файле .gitignore прописал папки bin, admin, config, а так же файлы с расширением .sass
